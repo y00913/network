@@ -48,7 +48,7 @@ int main(int argc, char *argv[])
     {
         puts("waiting..");
 
-	//연결요청을 
+	//연결요청을 기다림
         accp_sock = accept(listen_sock, (struct sockaddr *)&cliaddr, &addrlen);
         if (accp_sock < 0)
         {
