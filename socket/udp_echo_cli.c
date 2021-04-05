@@ -1,3 +1,5 @@
+// udp_echo_cli 127.0.0.1 8080
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
