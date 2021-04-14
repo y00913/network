@@ -1,4 +1,5 @@
 // talk_talk_cli 127.0.0.1 8080
+// 1 : 1 연결
 
 #include <stdio.h>
 #include <stdlib.h>
