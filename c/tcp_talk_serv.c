@@ -1,4 +1,5 @@
 //tcp_talk_serv 8080
+// 1 : 1 연결
 
 #include <stdio.h>
 #include <stdlib.h>
