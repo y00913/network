@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TimeServer">
+</Property><Property Name="솔루션 파일" Value="F:\C#\교재실습\14장\TimeServer\TimeServer.sln">
+</Property><Property Name="사용자 옵션 파일" Value="F:\C#\교재실습\14장\TimeServer\TimeServer.suo">
+</Property><Property Name="Date" Value="2012년 11월 23일 금요일">
+</Property><Property Name="Time" Value="오후 17:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TimeServer.sln" Description="파일을 F:\C#\교재실습\14장\TimeServer\Backup\TimeServer.sln(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="TimeServer.suo" Description="파일을 F:\C#\교재실습\14장\TimeServer\Backup\TimeServer.suo(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="TimeServer" Source="TimeServer\TimeServer.csproj" Description="프로젝트 파일을 F:\C#\교재실습\14장\TimeServer\Backup\TimeServer\TimeServer.csproj(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="TimeServer" Source="TimeServer\Form1.cs" Description="파일을 F:\C#\교재실습\14장\TimeServer\Backup\TimeServer\Form1.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="TimeServer" Source="TimeServer\Form1.Designer.cs" Description="파일을 F:\C#\교재실습\14장\TimeServer\Backup\TimeServer\Form1.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="TimeServer" Source="TimeServer\Program.cs" Description="파일을 F:\C#\교재실습\14장\TimeServer\Backup\TimeServer\Program.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="TimeServer" Source="TimeServer\Properties\AssemblyInfo.cs" Description="파일을 F:\C#\교재실습\14장\TimeServer\Backup\TimeServer\Properties\AssemblyInfo.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="TimeServer" Source="TimeServer\Properties\Resources.Designer.cs" Description="파일을 F:\C#\교재실습\14장\TimeServer\Backup\TimeServer\Properties\Resources.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="TimeServer" Source="TimeServer\Properties\Settings.Designer.cs" Description="파일을 F:\C#\교재실습\14장\TimeServer\Backup\TimeServer\Properties\Settings.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="TimeServer" Source="TimeServer\Properties\Settings.settings" Description="파일을 F:\C#\교재실습\14장\TimeServer\Backup\TimeServer\Properties\Settings.settings(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="TimeServer" Source="TimeServer\Form1.resx" Description="파일을 F:\C#\교재실습\14장\TimeServer\Backup\TimeServer\Form1.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="TimeServer" Source="TimeServer\Properties\Resources.resx" Description="파일을 F:\C#\교재실습\14장\TimeServer\Backup\TimeServer\Properties\Resources.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="1" Project="TimeServer" Source="TimeServer\TimeServer.csproj" Description="프로젝트가 .NET Framework 2.0 또는 3.0을 대상으로 합니다. 프로젝트에서 최신 .NET Framework를 필요로 하는 어셈블리를 사용하는 경우 프로젝트를 빌드할 수 없습니다. 프로젝트 메뉴에서 [속성]을 클릭하고 '.NET Framework' 드롭다운 상자에서 새 버전을 선택하면 .NET Framework 버전을 변경할 수 있습니다. Visual Basic의 경우 이 옵션이 '고급 컴파일러 옵션...' 단추를 클릭하면 나타나는 [컴파일] 탭에 있습니다.">
+</Event><Event ErrorLevel="0" Project="TimeServer" Source="TimeServer\TimeServer.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="TimeServer" Source="TimeServer\TimeServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TimeServer.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="TimeServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TimeServer" Source="TimeServer\TimeServer.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>

@@ -1,0 +1,8 @@
+J:\Note\C#\교재실습\14장\TimeServer\TimeServer\bin\Debug\TimeServer.exe
+J:\Note\C#\교재실습\14장\TimeServer\TimeServer\bin\Debug\TimeServer.pdb
+J:\Note\C#\교재실습\14장\TimeServer\TimeServer\obj\Debug\ResolveAssemblyReference.cache
+J:\Note\C#\교재실습\14장\TimeServer\TimeServer\obj\Debug\TimeServer.Form1.resources
+J:\Note\C#\교재실습\14장\TimeServer\TimeServer\obj\Debug\TimeServer.Properties.Resources.resources
+J:\Note\C#\교재실습\14장\TimeServer\TimeServer\obj\Debug\TimeServer.csproj.GenerateResource.Cache
+J:\Note\C#\교재실습\14장\TimeServer\TimeServer\obj\Debug\TimeServer.exe
+J:\Note\C#\교재실습\14장\TimeServer\TimeServer\obj\Debug\TimeServer.pdb

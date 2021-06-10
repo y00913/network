@@ -1,0 +1,36 @@
+E:\Note\C#2009\교재실습\16장\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+E:\Note\C#2009\교재실습\16장\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+E:\Note\C#2009\교재실습\16장\ChatServer\ChatServer\obj\Debug\ResolveAssemblyReference.cache
+E:\Note\C#2009\교재실습\16장\ChatServer\ChatServer\obj\Debug\ChatServer.Form1.resources
+E:\Note\C#2009\교재실습\16장\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+E:\Note\C#2009\교재실습\16장\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+E:\Note\C#2009\교재실습\16장\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+E:\Note\C#2009\교재실습\16장\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+I:\Note\C#2009\교재실습\16장\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+I:\Note\C#2009\교재실습\16장\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Documents and Settings\조영일\바탕 화면\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Documents and Settings\조영일\바탕 화면\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Documents and Settings\조영일\바탕 화면\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Documents and Settings\조영일\바탕 화면\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Documents and Settings\조영일\바탕 화면\ChatServer\ChatServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\조영일\바탕 화면\ChatServer\ChatServer\obj\Debug\ChatServer.Form1.resources
+C:\Documents and Settings\조영일\바탕 화면\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Documents and Settings\조영일\바탕 화면\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+H:\2학기\C#\교재실습\16장\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+H:\2학기\C#\교재실습\16장\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+H:\2학기\C#\교재실습\16장\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+H:\2학기\C#\교재실습\16장\ChatServer\ChatServer\obj\Debug\ChatServer.Form1.resources
+H:\2학기\C#\교재실습\16장\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+H:\2학기\C#\교재실습\16장\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+H:\2학기\C#\교재실습\16장\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+H:\2학기\C#\교재실습\16장\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+H:\2학기\C#\교재실습\16장\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\Administrator\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Administrator\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Administrator\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.Form1.resources
+C:\Users\Administrator\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Administrator\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
